@@ -1,0 +1,3848 @@
+{
+    "IntAct Complexes": [
+        {
+            "Union": {
+                "ARI": 0.19635727753235468,
+                "AMI": 0.46912551655889356,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9979986657771847
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8879252835223481
+                }
+            },
+            "iCell": {
+                "ARI": 0.12941059634136998,
+                "AMI": 0.20574777715131964,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8982252327102337
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8982252327102337
+                }
+            },
+            "deepNF": {
+                "ARI": 0.2356843984042967,
+                "AMI": 0.41822431560029727,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.027330494065014
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0517907439237049
+                }
+            },
+            "Mashup": {
+                "ARI": 0.3434405931209707,
+                "AMI": 0.511982083393814,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.093013032893376
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.093013032893376
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.40075686316514963,
+                "AMI": 0.5651359421142846,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.9156393568587138
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0209561004496068
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.3695130105374753,
+                "AMI": 0.5867586164044545,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8907340016443026
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8907340016443026
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.1678629210965312,
+                "AMI": 0.3443380161229811,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7341600400266843
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7341600400266843
+                }
+            },
+            "Hu": {
+                "ARI": 0.028566649131040976,
+                "AMI": 0.06100276845100557,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8438793133465128
+                }
+            },
+            "Krogan": {
+                "ARI": 0.16144093001749205,
+                "AMI": 0.3677388654240607,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.21259203765150356,
+                "AMI": 0.48951746132417534,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.838559039359573
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.838559039359573
+                }
+            },
+            "iCell": {
+                "ARI": 0.11531181781892764,
+                "AMI": 0.20217099417768844,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9078581042609342
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9078581042609342
+                }
+            },
+            "deepNF": {
+                "ARI": 0.2121907470876226,
+                "AMI": 0.39620795057203867,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.0337459736286378
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.9103317511409014
+                }
+            },
+            "Mashup": {
+                "ARI": 0.34125092021371917,
+                "AMI": 0.5111413857939507,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.112397861672286
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.112397861672286
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.37226245614121195,
+                "AMI": 0.5574840301529456,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0437173639937647
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1284346824997522
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.3336048630998722,
+                "AMI": 0.5604682828184088,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8908132975112024
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8908132975112024
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.18044995451235787,
+                "AMI": 0.3591464068647697,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                }
+            },
+            "Hu": {
+                "ARI": 0.017009473266449433,
+                "AMI": 0.05805415733130974,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8489136418377673
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8489136418377673
+                }
+            },
+            "Krogan": {
+                "ARI": 0.16848067140137504,
+                "AMI": 0.377079737180699,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.20163793783446987,
+                "AMI": 0.47691484234317316,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8452301534356237
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8452301534356237
+                }
+            },
+            "iCell": {
+                "ARI": 0.12807881261770382,
+                "AMI": 0.2080882379343924,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9655053140449796
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9655053140449796
+                }
+            },
+            "deepNF": {
+                "ARI": 0.24037112944785607,
+                "AMI": 0.4130797324600797,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.9108062882584351
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.8410127029512753
+                }
+            },
+            "Mashup": {
+                "ARI": 0.32735548494568123,
+                "AMI": 0.5055235475745375,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.066620028610066
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0931199050972726
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.4179318361470436,
+                "AMI": 0.584368633252636,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.9153930133650978
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0199965148120882
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.38662539386358247,
+                "AMI": 0.5909387793587634,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8909045973652674
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8909045973652674
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.17203395938017188,
+                "AMI": 0.3517258342334781,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7598147031354235
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7598147031354235
+                }
+            },
+            "Hu": {
+                "ARI": 0.016103391610551392,
+                "AMI": 0.04715734200766879,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8438793133465128
+                }
+            },
+            "Krogan": {
+                "ARI": 0.18637686813015042,
+                "AMI": 0.38223304278010106,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.20172005248447453,
+                "AMI": 0.47390307382644753,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9352901934623081
+                }
+            },
+            "iCell": {
+                "ARI": 0.08966291903036526,
+                "AMI": 0.16866401842495948,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8732121970555926
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9274983230287227
+                }
+            },
+            "deepNF": {
+                "ARI": 0.25209919125030433,
+                "AMI": 0.42094458398824186,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1101532847229285
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1146478324343574
+                }
+            },
+            "Mashup": {
+                "ARI": 0.32413733559376806,
+                "AMI": 0.5004234882093734,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0998794942432604
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0998794942432604
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.39597030145095247,
+                "AMI": 0.5639909238550197,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0646450146533826
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0766975997249302
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.3578556734089273,
+                "AMI": 0.579673567800835,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8907340016443026
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8907340016443026
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.16971214424559422,
+                "AMI": 0.34718936808495987,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7341600400266843
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8083948098732487
+                }
+            },
+            "Hu": {
+                "ARI": 0.02060332329055725,
+                "AMI": 0.047952561945582804,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                }
+            },
+            "Krogan": {
+                "ARI": 0.18536059930156437,
+                "AMI": 0.3877340176828707,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.20319833663463724,
+                "AMI": 0.4744020323649449,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8792528352234823
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8792528352234823
+                }
+            },
+            "iCell": {
+                "ARI": 0.11666143508050247,
+                "AMI": 0.207331415386012,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.2423770363863275,
+                "AMI": 0.4274807940956653,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.9890292083866606
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1492240801675986
+                }
+            },
+            "Mashup": {
+                "ARI": 0.3732483665989194,
+                "AMI": 0.5244810359351,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0667338371679056
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0799851891824137
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.4339747782984433,
+                "AMI": 0.5960529613661795,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.9029857443086661
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0199965148120882
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.35618822696623675,
+                "AMI": 0.5700356110598263,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7857764615105292
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7857764615105292
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.16869894937167498,
+                "AMI": 0.34759709034003644,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7287016010673781
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7287016010673781
+                }
+            },
+            "Hu": {
+                "ARI": 0.03068268717886403,
+                "AMI": 0.06061675440381823,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8690509558027844
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8690509558027844
+                }
+            },
+            "Krogan": {
+                "ARI": 0.1847175358327535,
+                "AMI": 0.3908936933386645,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.17997425383821292,
+                "AMI": 0.4604667996155198,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8779186124082721
+                }
+            },
+            "iCell": {
+                "ARI": 0.1104532240970412,
+                "AMI": 0.20137733916421324,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.2662482439870959,
+                "AMI": 0.43768250694411265,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.117502396152779
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.117502396152779
+                }
+            },
+            "Mashup": {
+                "ARI": 0.3483884464048839,
+                "AMI": 0.5054679295750134,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.093013098214486
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.093013098214486
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.4334869694038856,
+                "AMI": 0.59294175337638,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1029075730832274
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0199965148120882
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.37904022979477264,
+                "AMI": 0.5855827484678331,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7989803261987996
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7989803261987996
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.17902852786379472,
+                "AMI": 0.35663103686670145,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                }
+            },
+            "Hu": {
+                "ARI": 0.018055596463351486,
+                "AMI": 0.055022135503339564,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8438793133465128
+                }
+            },
+            "Krogan": {
+                "ARI": 0.1863081295535191,
+                "AMI": 0.38408348486184846,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.1935605317562664,
+                "AMI": 0.46924587686124986,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.943295530353569
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.886591060707138
+                }
+            },
+            "iCell": {
+                "ARI": 0.16607475076726522,
+                "AMI": 0.23351935212939523,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8907207422155728
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9343964992632904
+                }
+            },
+            "deepNF": {
+                "ARI": 0.22495857446100562,
+                "AMI": 0.4165678021367154,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0516432577948425
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.100556897692277
+                }
+            },
+            "Mashup": {
+                "ARI": 0.33984758615161603,
+                "AMI": 0.5037025416815403,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0996819807495828
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0996819807495828
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.3688876650451113,
+                "AMI": 0.5719357647858402,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0209561004496068
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0464004892458587
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.3437413806479854,
+                "AMI": 0.5592196447137809,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1212791588569067
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8907340016443026
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.17020041204725905,
+                "AMI": 0.351138017091431,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7341600400266843
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7341600400266843
+                }
+            },
+            "Hu": {
+                "ARI": 0.020996830985011553,
+                "AMI": 0.05708017816533575,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8438793133465128
+                }
+            },
+            "Krogan": {
+                "ARI": 0.1554454633985562,
+                "AMI": 0.3577511681613826,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.18244211447078962,
+                "AMI": 0.4584286840687415,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8372248165443629
+                }
+            },
+            "iCell": {
+                "ARI": 0.11719033263729721,
+                "AMI": 0.20573794898658182,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9274557271309707
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9876973196855163
+                }
+            },
+            "deepNF": {
+                "ARI": 0.22237242875991245,
+                "AMI": 0.42960556560244867,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1101532847229285
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1508201098449362
+                }
+            },
+            "Mashup": {
+                "ARI": 0.3036602264425334,
+                "AMI": 0.48475291657224995,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1455542899973916
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1264238053780258
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.35696755466276303,
+                "AMI": 0.5636813707998188,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0782341540962235
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1284346824997522
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.34676595612842875,
+                "AMI": 0.5587550263120062,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1209887623861983
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8907340016443026
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.19849845178450096,
+                "AMI": 0.3753581653395252,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.812215717144763
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.812215717144763
+                }
+            },
+            "Hu": {
+                "ARI": 0.02457252815366206,
+                "AMI": 0.06012608625940134,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9288336066364301
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9288336066364301
+                }
+            },
+            "Krogan": {
+                "ARI": 0.2255885956937838,
+                "AMI": 0.42087677639035864,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.18384410146451094,
+                "AMI": 0.4654670019533864,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.09192320667016209,
+                "AMI": 0.17922915012852872,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.7262169921134661
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9559319385705061
+                }
+            },
+            "deepNF": {
+                "ARI": 0.25816905576641547,
+                "AMI": 0.44098971313485075,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1192094057773958
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1366970527426676
+                }
+            },
+            "Mashup": {
+                "ARI": 0.320477533053148,
+                "AMI": 0.49403060231664425,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.066467094618591
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.066467094618591
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.3895256067539479,
+                "AMI": 0.5656527356258986,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0690641292801961
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0199965148120882
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.36355675923957437,
+                "AMI": 0.5850478867464971,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8908132975112024
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8908132975112024
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.19628190166838874,
+                "AMI": 0.3615380231208895,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                }
+            },
+            "Hu": {
+                "ARI": 0.029373650070477927,
+                "AMI": 0.05656592432851995,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8438793133465128
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8438793133465128
+                }
+            },
+            "Krogan": {
+                "ARI": 0.22551479488228693,
+                "AMI": 0.4135376398052612,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.21064542040868578,
+                "AMI": 0.48357549272136713,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8278852568378918
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8278852568378918
+                }
+            },
+            "iCell": {
+                "ARI": 0.10534058645545971,
+                "AMI": 0.18721907030808957,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9331006597304802
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9331006597304802
+                }
+            },
+            "deepNF": {
+                "ARI": 0.2800245777071997,
+                "AMI": 0.4418179363096059,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1378243195868514
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1482950955339697
+                }
+            },
+            "Mashup": {
+                "ARI": 0.3688784101515386,
+                "AMI": 0.5119120888255517,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.09234705677208
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0938482536213152
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.43914788219529355,
+                "AMI": 0.6072437388218642,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.8893083021880036
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0209561004496068
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.4140714124777234,
+                "AMI": 0.604954652055757,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8909391776430465
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8909391776430465
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.17476664891365562,
+                "AMI": 0.3503084715551458,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7248806937958638
+                }
+            },
+            "Hu": {
+                "ARI": 0.019096966326649957,
+                "AMI": 0.04792848382245269,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7645886396092564
+                }
+            },
+            "Krogan": {
+                "ARI": 0.1635399906537051,
+                "AMI": 0.37138934765929366,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        }
+    ],
+    "KEGG Pathways": [
+        {
+            "Union": {
+                "ARI": 0.03694741087033541,
+                "AMI": 0.2554095775929489,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9919946631087391
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9919946631087391
+                }
+            },
+            "iCell": {
+                "ARI": 0.03618310284595732,
+                "AMI": 0.1618672887278818,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9072715143428952
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9072715143428952
+                }
+            },
+            "deepNF": {
+                "ARI": 0.225995883251141,
+                "AMI": 0.3337558279080076,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1522277718026934
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1522277718026934
+                }
+            },
+            "Mashup": {
+                "ARI": 0.2493901029509318,
+                "AMI": 0.3576864920995264,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.150234710917051
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1510613117938844
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.28099293457086283,
+                "AMI": 0.3420051551926641,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.151924162576774
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.151924162576774
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.37725188443044066,
+                "AMI": 0.393352367383657,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.007014838574441864,
+                "AMI": 0.08563630650837231,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "Hu": {
+                "ARI": 0.018266013611708688,
+                "AMI": 0.10547158933740187,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9509712137453802
+                }
+            },
+            "Krogan": {
+                "ARI": 0.027787262477247596,
+                "AMI": 0.16697855747598866,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.5777184789859906
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9613075383589058
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.050815874283542166,
+                "AMI": 0.23683060797404673,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7778519012675116
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.02570251382221915,
+                "AMI": 0.14524145261115726,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8729759422948633
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8729759422948633
+                }
+            },
+            "deepNF": {
+                "ARI": 0.20334420797398933,
+                "AMI": 0.3389974942999072,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1525264772033397
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1525264772033397
+                }
+            },
+            "Mashup": {
+                "ARI": 0.22785557452656965,
+                "AMI": 0.31877829344070274,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1363365371006608
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1420909084588002
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.14413598408903802,
+                "AMI": 0.2934180210256591,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.151833232077944
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0880786251363606
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.19717390247086208,
+                "AMI": 0.370929492394566,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1531621558685816
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1531621558685816
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.038381318041907544,
+                "AMI": 0.18182294505050578,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7308485390260174
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7308485390260174
+                }
+            },
+            "Hu": {
+                "ARI": 0.010607579228387603,
+                "AMI": 0.06636910058264507,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7905102330538046
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9514447267536839
+                }
+            },
+            "Krogan": {
+                "ARI": 0.0289778957878412,
+                "AMI": 0.16479435581195276,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.5777184789859906
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9406270847231487
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.03573937284438726,
+                "AMI": 0.22399886131807395,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9933288859239492
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9919946631087391
+                }
+            },
+            "iCell": {
+                "ARI": 0.03531345418013087,
+                "AMI": 0.15506237889933244,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8535435910957676
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8535435910957676
+                }
+            },
+            "deepNF": {
+                "ARI": 0.15641419360817352,
+                "AMI": 0.3096284941518945,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.9983538096642921
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1479347382503382
+                }
+            },
+            "Mashup": {
+                "ARI": 0.2104098728571653,
+                "AMI": 0.318591111519796,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1513430808485348
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1413688735144671
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.202844638832795,
+                "AMI": 0.29911869222598425,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1463549823795998
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1463549823795998
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.29222190211388444,
+                "AMI": 0.3402060543668046,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.008128873560802743,
+                "AMI": 0.0958341099457642,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.6785528685790527
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.6785528685790527
+                }
+            },
+            "Hu": {
+                "ARI": 0.007929918021736147,
+                "AMI": 0.05103196082346564,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7467360507674377
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7467360507674377
+                }
+            },
+            "Krogan": {
+                "ARI": 0.020703803147576555,
+                "AMI": 0.12156758281827632,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9773182121414276
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.0388968388795239,
+                "AMI": 0.25793405211217457,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9933288859239492
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.03042088409556858,
+                "AMI": 0.15310943160542317,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9075673306013533
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9075673306013533
+                }
+            },
+            "deepNF": {
+                "ARI": 0.23013783657265408,
+                "AMI": 0.3518366067127083,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.0793312986014418
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.153341504061736
+                }
+            },
+            "Mashup": {
+                "ARI": 0.27484264888487836,
+                "AMI": 0.3814799088615173,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1363244628850877
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1521736311183781
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.19162720205677183,
+                "AMI": 0.32664984309861,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1517929065458372
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1517929065458372
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.2872536156250339,
+                "AMI": 0.39258595184313044,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1540088241181181
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.009523763060788008,
+                "AMI": 0.10091475510144954,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "Hu": {
+                "ARI": 0.02054591094812155,
+                "AMI": 0.09509299278909301,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9509712137453802
+                }
+            },
+            "Krogan": {
+                "ARI": 0.03324859800187167,
+                "AMI": 0.18304911171314864,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.5777184789859906
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9613075383589058
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.03590259142577587,
+                "AMI": 0.2755554445428473,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.054926118009869684,
+                "AMI": 0.18262981633623152,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9521605221844502
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.2582798325829902,
+                "AMI": 0.3941284822546205,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1542085132371516
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1542085132371516
+                }
+            },
+            "Mashup": {
+                "ARI": 0.20820838246408416,
+                "AMI": 0.35926905755356575,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1330689252806991
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1520429038697049
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.18816840735424264,
+                "AMI": 0.32338730447931924,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1452139955499534
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1452139955499534
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.2572780955887837,
+                "AMI": 0.36123954949943227,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "cosine",
+                    "threshold": 1.1477094821485156
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "cosine",
+                    "threshold": 1.1477094821485156
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.03859121962012196,
+                "AMI": 0.18699279976476713,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7249018679119413
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7249018679119413
+                }
+            },
+            "Hu": {
+                "ARI": 0.010707882883079816,
+                "AMI": 0.08217644310906345,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9509712137453802
+                }
+            },
+            "Krogan": {
+                "ARI": 0.041617114407713825,
+                "AMI": 0.16762515506756082,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9613075383589058
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.03728898420121369,
+                "AMI": 0.25462095177633465,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.027847913840120756,
+                "AMI": 0.14711141595750865,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.20482123771892427,
+                "AMI": 0.31741870032337066,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.143947073573668
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1535623318164372
+                }
+            },
+            "Mashup": {
+                "ARI": 0.21332946003783954,
+                "AMI": 0.36043575550607226,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1419759034927535
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1419759034927535
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.15942063555778271,
+                "AMI": 0.2952708559610239,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1477741009701805
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.101526792872481
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.23962485817855564,
+                "AMI": 0.3622922470444179,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1534807415573645
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1534807415573645
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.009648215213534305,
+                "AMI": 0.10341992098950638,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "Hu": {
+                "ARI": 0.015421362846008901,
+                "AMI": 0.06667418266026033,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7074680343046672
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7074680343046672
+                }
+            },
+            "Krogan": {
+                "ARI": 0.02296560820537764,
+                "AMI": 0.11068710793212404,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9406270847231487
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.034935877228812064,
+                "AMI": 0.2664160673521431,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9919946631087391
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9919946631087391
+                }
+            },
+            "iCell": {
+                "ARI": 0.0280836923398821,
+                "AMI": 0.1690268518393628,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9078722018482362
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.1895584150323227,
+                "AMI": 0.29643969782968743,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1265000185917362
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1482255825580918
+                }
+            },
+            "Mashup": {
+                "ARI": 0.24148012335932129,
+                "AMI": 0.3115475615110774,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1380331582392447
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1442949124673076
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.18347980056064273,
+                "AMI": 0.2832024338848502,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1438413030297199
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1438413030297199
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.22586675798576739,
+                "AMI": 0.3393575766616066,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1531621558685816
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1531621558685816
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.009748046193773834,
+                "AMI": 0.10554462975265805,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "Hu": {
+                "ARI": 0.02067645450447574,
+                "AMI": 0.08851831414208823,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9744681002895351
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9744681002895351
+                }
+            },
+            "Krogan": {
+                "ARI": 0.03524502697494348,
+                "AMI": 0.17520979908153844,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.5777184789859906
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9613075383589058
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.039201392597726106,
+                "AMI": 0.2527730934790797,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9933288859239492
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9993328885923949
+                }
+            },
+            "iCell": {
+                "ARI": 0.02635659804483723,
+                "AMI": 0.15705332652471363,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9078358746985389
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9078358746985389
+                }
+            },
+            "deepNF": {
+                "ARI": 0.19913667528979329,
+                "AMI": 0.3206029016353685,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.08297247044872
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1525264772033397
+                }
+            },
+            "Mashup": {
+                "ARI": 0.24525377494930584,
+                "AMI": 0.3354358971577789,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1380331582392447
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1404328754171875
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.20666332580815946,
+                "AMI": 0.32822102591398333,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.146726874435107
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.146726874435107
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.2878244049481307,
+                "AMI": 0.3664573696923778,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1523154876190451
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.007236952175787351,
+                "AMI": 0.09202697960923009,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "Hu": {
+                "ARI": 0.00873065742752991,
+                "AMI": 0.08107922021691559,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9509712137453802
+                }
+            },
+            "Krogan": {
+                "ARI": 0.03891317835487925,
+                "AMI": 0.1803240065037834,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9406270847231487
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.04123624565620434,
+                "AMI": 0.25501473026978794,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9933288859239492
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9919946631087391
+                }
+            },
+            "iCell": {
+                "ARI": 0.03867447506070035,
+                "AMI": 0.15201396119032468,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8733448547687086
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8733448547687086
+                }
+            },
+            "deepNF": {
+                "ARI": 0.3795680430624394,
+                "AMI": 0.4008481085372204,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.154364848823237
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.154364848823237
+                }
+            },
+            "Mashup": {
+                "ARI": 0.29422611727953035,
+                "AMI": 0.33206059086498135,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1513430808485348
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1529920977045263
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.2678674529777431,
+                "AMI": 0.32091493794906595,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1508733539501816
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1219983952489225
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.34951402635895984,
+                "AMI": 0.38081816749601893,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1540088241181181
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1540088241181181
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.04739416370779653,
+                "AMI": 0.1952485649366602,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.714350166777852
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.714350166777852
+                }
+            },
+            "Hu": {
+                "ARI": 0.01154001085004335,
+                "AMI": 0.06993975346141504,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                }
+            },
+            "Krogan": {
+                "ARI": 0.04381022909828006,
+                "AMI": 0.17424832221823047,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.5777184789859906
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9406270847231487
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.05029928230165209,
+                "AMI": 0.2526177985253559,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9933288859239492
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.030289151580750205,
+                "AMI": 0.15556729722792864,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9610440220380839
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.26486807109991245,
+                "AMI": 0.364608472664472,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.154140464668851
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.154140464668851
+                }
+            },
+            "Mashup": {
+                "ARI": 0.32742613407637206,
+                "AMI": 0.33252029073261774,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1507951435979573
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1531573039777938
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.21526993610117215,
+                "AMI": 0.3224397621984067,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1529118760204562
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1508298223894164
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.24809880775080095,
+                "AMI": 0.38782311069154163,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1531621558685816
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.1531621558685816
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.0383425156346241,
+                "AMI": 0.18279457017796275,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7308485390260174
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7308485390260174
+                }
+            },
+            "Hu": {
+                "ARI": 0.012005296559686924,
+                "AMI": 0.076606953644453,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9509712137453802
+                }
+            },
+            "Krogan": {
+                "ARI": 0.030847811292168438,
+                "AMI": 0.17247121045319255,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.5777184789859906
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9613075383589058
+                }
+            }
+        }
+    ],
+    "GO Biological Process": [
+        {
+            "Union": {
+                "ARI": 0.07628514777154424,
+                "AMI": 0.169247717964739,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9366244162775182
+                }
+            },
+            "iCell": {
+                "ARI": 0.03284849803852945,
+                "AMI": 0.06280810656184177,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8735178163905559
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8735178163905559
+                }
+            },
+            "deepNF": {
+                "ARI": 0.08348507337417034,
+                "AMI": 0.16608120676762753,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1454628608261228
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.148976550583258
+                }
+            },
+            "Mashup": {
+                "ARI": 0.09027933033642373,
+                "AMI": 0.17210023821357795,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1331662999321097
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1405726156179405
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.09498888837425667,
+                "AMI": 0.17041317888613827,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7099664623458486
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1104603641819684
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.13564426162228865,
+                "AMI": 0.21227588182400636,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "cosine",
+                    "threshold": 0.9929141644107978
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8202649740809665
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.07795960082334433,
+                "AMI": 0.14581167002482417,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7776603735823884
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7776603735823884
+                }
+            },
+            "Hu": {
+                "ARI": 0.013861607452512253,
+                "AMI": 0.02943925590934469,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8028102902586257
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8028102902586257
+                }
+            },
+            "Krogan": {
+                "ARI": 0.05271048652091911,
+                "AMI": 0.11677890305718147,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.06277192941366413,
+                "AMI": 0.15836891272759146,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9859906604402935
+                }
+            },
+            "iCell": {
+                "ARI": 0.03022458849480544,
+                "AMI": 0.05568154866925078,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9802580214416409
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9802580214416409
+                }
+            },
+            "deepNF": {
+                "ARI": 0.1121901150924549,
+                "AMI": 0.1557008623016872,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.9821679833509143
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1527227978686239
+                }
+            },
+            "Mashup": {
+                "ARI": 0.1021460216777205,
+                "AMI": 0.15723272076635553,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1361462511955178
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1538855899420222
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.13938069390368543,
+                "AMI": 0.18892386066478584,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.8728744908671033
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.8728744908671033
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.14256103662255978,
+                "AMI": 0.20141535556560378,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7906594848470692
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7606137940063524
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.08249811354797808,
+                "AMI": 0.14625224605738324,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.736888852568379
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.736888852568379
+                }
+            },
+            "Hu": {
+                "ARI": 0.021674062214355368,
+                "AMI": 0.04050107402397775,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                }
+            },
+            "Krogan": {
+                "ARI": 0.05257107103523083,
+                "AMI": 0.1103537035060851,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.06472201210035854,
+                "AMI": 0.17861134334839268,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9879919946631086
+                }
+            },
+            "iCell": {
+                "ARI": 0.03471631916301885,
+                "AMI": 0.06836600722273127,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.7077371232681972
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9272420581164162
+                }
+            },
+            "deepNF": {
+                "ARI": 0.10586629420425389,
+                "AMI": 0.19183401195507016,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.060189526208324
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1523597021234517
+                }
+            },
+            "Mashup": {
+                "ARI": 0.12739013458058784,
+                "AMI": 0.19589855430787603,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0589643479107314
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0671102275100446
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.14610096228981811,
+                "AMI": 0.20861582423889738,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7268998263315922
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1130653590702506
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.1630157054822757,
+                "AMI": 0.24092697148918968,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "cosine",
+                    "threshold": 0.9935506237059964
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7691529128587821
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.08662922325178149,
+                "AMI": 0.15164802334097982,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.75685877251501
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.75685877251501
+                }
+            },
+            "Hu": {
+                "ARI": 0.009753919570746642,
+                "AMI": 0.02448078282392864,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7923672295723346
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7923672295723346
+                }
+            },
+            "Krogan": {
+                "ARI": 0.05277717690664763,
+                "AMI": 0.10849384568643254,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.05652725857653763,
+                "AMI": 0.14297010097521531,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.7691794529686456
+                }
+            },
+            "iCell": {
+                "ARI": 0.025652775194946693,
+                "AMI": 0.05437530096870512,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.8732906399464972
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9272056870773405
+                }
+            },
+            "deepNF": {
+                "ARI": 0.10107312606156768,
+                "AMI": 0.18610941020861743,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.071808130267439
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1508196270499746
+                }
+            },
+            "Mashup": {
+                "ARI": 0.11354341493336192,
+                "AMI": 0.18372487296778509,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.034480423986152
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1479395672620525
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.11438111553046273,
+                "AMI": 0.18764481643272207,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "cosine",
+                    "threshold": 0.8524098070993646
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.071662473619735
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.14284062924303542,
+                "AMI": 0.2207335581142278,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8040844379877843
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8040844379877843
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.0823805567139559,
+                "AMI": 0.13749057160097988,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7563983455637091
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7563983455637091
+                }
+            },
+            "Hu": {
+                "ARI": 0.025214320527842296,
+                "AMI": 0.042471592442490845,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                }
+            },
+            "Krogan": {
+                "ARI": 0.06237463053542667,
+                "AMI": 0.11458435621911572,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.06557832826383221,
+                "AMI": 0.15766458576883763,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9773182121414276
+                }
+            },
+            "iCell": {
+                "ARI": 0.030664002621509923,
+                "AMI": 0.05248140397026128,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9079204808457488
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9611709489305436
+                }
+            },
+            "deepNF": {
+                "ARI": 0.09641466772009714,
+                "AMI": 0.1873477020295826,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.707664087934416
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.0973921363620656
+                }
+            },
+            "Mashup": {
+                "ARI": 0.128874190686739,
+                "AMI": 0.19597350250935688,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "cosine",
+                    "threshold": 1.0125662995974014
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.148502405377463
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.15370307375516432,
+                "AMI": 0.2109438827638701,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7231114299864286
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.9460469696660391
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.16610306872132632,
+                "AMI": 0.23398711873029152,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7074037562692311
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7074037562692311
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.08413275012438809,
+                "AMI": 0.15547168747726328,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7346634756504337
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7346634756504337
+                }
+            },
+            "Hu": {
+                "ARI": 0.012953228432617746,
+                "AMI": 0.03177156864629973,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9770788654611079
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9770788654611079
+                }
+            },
+            "Krogan": {
+                "ARI": 0.05956856646870358,
+                "AMI": 0.11694036077849962,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.06921546932084907,
+                "AMI": 0.1702270461122513,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9139426284189459
+                }
+            },
+            "iCell": {
+                "ARI": 0.02029028189615377,
+                "AMI": 0.04526352070480335,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9611007521193915
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9611007521193915
+                }
+            },
+            "deepNF": {
+                "ARI": 0.08081757555515721,
+                "AMI": 0.14380880927597872,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.9955632508488665
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1498283682372268
+                }
+            },
+            "Mashup": {
+                "ARI": 0.09638764661432302,
+                "AMI": 0.175436207039324,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "cosine",
+                    "threshold": 1.012509664266427
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1390774454531942
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.1170485692172816,
+                "AMI": 0.18616559248014522,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7767154459852019
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.825260161359277
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.13945134086930608,
+                "AMI": 0.22544452533098663,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7071127896653303
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8136258360581364
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.0765494246607679,
+                "AMI": 0.13606453193689919,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7933707138092062
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7933707138092062
+                }
+            },
+            "Hu": {
+                "ARI": 0.012159373373211334,
+                "AMI": 0.027696348246653582,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9170312665149343
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.9170312665149343
+                }
+            },
+            "Krogan": {
+                "ARI": 0.04037391413835245,
+                "AMI": 0.0952615947304177,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.08179471581516358,
+                "AMI": 0.1832440486226523,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9979986657771847
+                }
+            },
+            "iCell": {
+                "ARI": 0.03106445036256128,
+                "AMI": 0.05871111579902112,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            },
+            "deepNF": {
+                "ARI": 0.07768360926523714,
+                "AMI": 0.16003667255260848,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.076050252720378
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1526946080923461
+                }
+            },
+            "Mashup": {
+                "ARI": 0.09750742311597888,
+                "AMI": 0.16469267124772777,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "cosine",
+                    "threshold": 1.010458665621728
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1280477890664142
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.12285951113014595,
+                "AMI": 0.1828563453338372,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "cosine",
+                    "threshold": 0.845041879236809
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1351517816774408
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.1361155302288856,
+                "AMI": 0.21001801024490546,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7074222113692316
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7637359127858189
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.06543613311246815,
+                "AMI": 0.12631771466251937,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.735870346897932
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.7608237358238826
+                }
+            },
+            "Hu": {
+                "ARI": 0.01645023916666615,
+                "AMI": 0.03703656337123199,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.885702084456061
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.885702084456061
+                }
+            },
+            "Krogan": {
+                "ARI": 0.05420778541256787,
+                "AMI": 0.11220676717745122,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.08182189235378141,
+                "AMI": 0.16287735383838875,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9106070713809206
+                }
+            },
+            "iCell": {
+                "ARI": 0.025377869750026615,
+                "AMI": 0.04863363929015283,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9073675397397866
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9073675397397866
+                }
+            },
+            "deepNF": {
+                "ARI": 0.08081479810287695,
+                "AMI": 0.16768501520658377,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "euclidean",
+                    "threshold": 1.0753560502791963
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.135578052485575
+                }
+            },
+            "Mashup": {
+                "ARI": 0.10936357857367326,
+                "AMI": 0.17406233346299205,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1013731756768266
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1080481646203224
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.11692146046986318,
+                "AMI": 0.1828122665224497,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.9011372325270938
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1438584066133388
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.1370576910805685,
+                "AMI": 0.21086386616927785,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8013629265380668
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8208000037583248
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.07078718267047436,
+                "AMI": 0.12740337285273579,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7074915610406939
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7074915610406939
+                }
+            },
+            "Hu": {
+                "ARI": 0.027658741527760138,
+                "AMI": 0.04701214369673347,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                }
+            },
+            "Krogan": {
+                "ARI": 0.06193359149685829,
+                "AMI": 0.11871775521762527,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.056026460293276265,
+                "AMI": 0.15516359127903828,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9739826551034022
+                }
+            },
+            "iCell": {
+                "ARI": 0.028752025377285356,
+                "AMI": 0.05598020636754821,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.907621440115325
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.907621440115325
+                }
+            },
+            "deepNF": {
+                "ARI": 0.0941313696032188,
+                "AMI": 0.16972281397336214,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.9692377323328069
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.149314688066771
+                }
+            },
+            "Mashup": {
+                "ARI": 0.12250035907384063,
+                "AMI": 0.18787012440877576,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1117698804993015
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1534612510180253
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.1254660277043323,
+                "AMI": 0.20198857862813735,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7745224355581339
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 1.1464161446951744
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.1306227900627941,
+                "AMI": 0.20579412815331838,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7690130417574846
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.7690130417574846
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.07238294716282297,
+                "AMI": 0.12999760194717105,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7074915610406939
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7074915610406939
+                }
+            },
+            "Hu": {
+                "ARI": 0.014778426307265792,
+                "AMI": 0.029589275152280763,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7075173614962197
+                }
+            },
+            "Krogan": {
+                "ARI": 0.053500729591184897,
+                "AMI": 0.10848350938221622,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        },
+        {
+            "Union": {
+                "ARI": 0.07099309592417345,
+                "AMI": 0.1784600979216922,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 1.0
+                }
+            },
+            "iCell": {
+                "ARI": 0.03723858222304861,
+                "AMI": 0.06535405286676448,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9756346028128025
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "precomputed",
+                    "threshold": 0.9756346028128025
+                }
+            },
+            "deepNF": {
+                "ARI": 0.08188435043074879,
+                "AMI": 0.16433456560324897,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 0.993414664749834
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1451863496421697
+                }
+            },
+            "Mashup": {
+                "ARI": 0.10511686325305085,
+                "AMI": 0.16866261529227808,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "cosine",
+                    "threshold": 1.01120988124563
+                },
+                "AMI_params": {
+                    "linkage": "average",
+                    "metric": "euclidean",
+                    "threshold": 1.1458243343759384
+                }
+            },
+            "multi-node2vec": {
+                "ARI": 0.13528378757931986,
+                "AMI": 0.2001925001381079,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7085238899619217
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "euclidean",
+                    "threshold": 0.7458146210125491
+                }
+            },
+            "BIONIC": {
+                "ARI": 0.12649358612452877,
+                "AMI": 0.2043785531870735,
+                "ARI_params": {
+                    "linkage": "average",
+                    "metric": "cosine",
+                    "threshold": 0.9851941276577874
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "cosine",
+                    "threshold": 0.8196996461061785
+                }
+            },
+            "Costanzo": {
+                "ARI": 0.07396025648527675,
+                "AMI": 0.1297352988744002,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7634155770513676
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.7634155770513676
+                }
+            },
+            "Hu": {
+                "ARI": 0.012101137377409504,
+                "AMI": 0.025137597940917057,
+                "ARI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8641632717905857
+                },
+                "AMI_params": {
+                    "linkage": "single",
+                    "metric": "precomputed",
+                    "threshold": 0.8641632717905857
+                }
+            },
+            "Krogan": {
+                "ARI": 0.05337198213301194,
+                "AMI": 0.10849004422780681,
+                "ARI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                },
+                "AMI_params": {
+                    "linkage": "complete",
+                    "metric": "precomputed",
+                    "threshold": 0.0
+                }
+            }
+        }
+    ]
+}
