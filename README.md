@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/471554987.svg)](https://zenodo.org/badge/latestdoi/471554987)
+
 This repo contains Jupyter notebooks which implement the main figure analyses from the BIONIC manuscript.
 
 You can run these notebooks by creating a new Python 3.6.10 environment and installing the required dependencies with
